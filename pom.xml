@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.91.164.150:8081/repository/nightduty-release/</url>
+	      <url>http://54.149.82.11:8081/repository/demo-rep-leases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.91.164.150:8081/repository/nightduty-snapshot/</url>
+	      <url>http://54.149.82.11:8081/repository/demo-rep-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
